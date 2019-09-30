@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gohgheijei.yucc.wang/sitemap.xml
